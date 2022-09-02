@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Madelein\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Madelein\\.nuget\\packages"
+    ]
+  }
+}

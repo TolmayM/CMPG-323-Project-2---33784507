@@ -1,0 +1,7 @@
+C:\Users\Madelein\Desktop\Project2\Project2\Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Project2.exe
+C:\Users\Madelein\Desktop\Project2\Project2\Project2\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\Madelein\Desktop\Project2\Project2\Project2\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\Madelein\Desktop\Project2\Project2\Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Project2.dll
+C:\Users\Madelein\Desktop\Project2\Project2\Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Project2.deps.json
+C:\Users\Madelein\Desktop\Project2\Project2\Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Project2.runtimeconfig.json
+C:\Users\Madelein\Desktop\Project2\Project2\Project2\obj\Release\netcoreapp3.1\PubTmp\Out\Project2.pdb
