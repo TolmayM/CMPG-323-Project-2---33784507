@@ -7,3 +7,7 @@ In this project I will be creating a CRUD RESTful API that will connect to a dat
   <li>Open project in Visual Studio Community 2022.</li>
   <li>Run project in Visual Studio Community 2022 by clicking on the IIS Express green play button.</li>
 </ol>
+
+<h2>Reference List</h2>
+file:///C:/Users/Madelein/Desktop/References%20List.pdf
+
